@@ -1,0 +1,22 @@
+{
+  "name": "multi-messenger",
+  "version": "1.0.0",
+  "description": "A messenger application using multiple interfacesa",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nosuchthingasrandom/multi-messenger.git"
+  },
+  "author": "Sam Ralph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nosuchthingasrandom/multi-messenger/issues"
+  },
+  "homepage": "https://github.com/nosuchthingasrandom/multi-messenger#readme",
+  "devDependencies": {
+    "electron": "^2.0.4"
+  }
+}
